@@ -67,5 +67,11 @@ body{
     font-weight: 400;
     font-size: 1rem;
     letter-spacing: -0.1rem;
-    border-width: 0px;
+}
+
+.meme--image{
+    width: 477px;
+    /* max-height: 350px; */
+    border-radius: 2px;
+    object-fit: cover;
 }
